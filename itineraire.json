@@ -1,0 +1,404 @@
+{
+  "pays": "Australie",
+  "drapeau": "🇦🇺",
+  "symbole": "🏝️",
+  "titre": "Lord Howe : L'Éden Pacifique, un Voyage Hors du Temps",
+  "budget_total": "8200€",
+  "duree": "14 jours",
+  "temps_vol": "Environ 28-32 heures (aller simple)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Départ de Paris et Transit International",
+      "legende": "Le grand départ commence à Paris pour une aventure lointaine. Ce premier jour est entièrement dédié au voyage aérien transcontinental, traversant les fuseaux horaires pour se rapprocher de l'Australie. Préparez-vous à une longue période en cabine, mais l'excitation de la destination finale rendra l'attente plus douce.",
+      "lieu": "Paris / En vol",
+      "activites": [
+        "✈️ <strong>Vol Paris - Sydney</strong>: Embarquement pour un long vol international, souvent avec une escale, vers l'Australie. Profitez des divertissements à bord pour vous détendre."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil de Vol",
+          "texte": "Hydratez-vous régulièrement et faites quelques pas dans l'allée pour limiter les effets du décalage horaire et de la sédentarité."
+        },
+        {
+          "symbole": "🛂",
+          "titre": "Formalités",
+          "texte": "Assurez-vous d'avoir votre visa australien (ETA ou eVisitor) valide avant le départ. Il est obligatoire."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛫",
+      "titre": "Arrivée à Sydney et Vol vers Lord Howe",
+      "legende": "Après une longue nuit en vol, vous atterrirez à Sydney. Le temps est compté pour le transit vers Lord Howe Island, une petite île paradisiaque. Ce second jour est une continuation du voyage, mais avec la promesse d'une arrivée imminente dans un cadre idyllique. La vue depuis l'avion sera un avant-goût spectaculaire.",
+      "lieu": "Sydney / Lord Howe Island",
+      "activites": [
+        "🔄 <strong>Transit à Sydney</strong>: Atterrissage à Sydney, passage de l'immigration et récupération des bagages avant de se diriger vers le terminal domestique pour le vol vers Lord Howe Island.",
+        "✈️ <strong>Vol Sydney - Lord Howe Island</strong>: Un court vol panoramique au-dessus de l'océan vous mènera à cette île classée au patrimoine mondial de l'UNESCO. Admirez les vues imprenables sur l'île et Ball's Pyramid."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🛄",
+          "titre": "Bagages",
+          "texte": "Les vols vers Lord Howe ont des restrictions de poids strictes (souvent 14kg par personne). Prévoyez un petit sac à dos pour les essentiels."
+        },
+        {
+          "symbole": "⏱️",
+          "titre": "Décalage Horaire",
+          "texte": "Le décalage horaire avec la France est de +9 heures en hiver et +8 heures en été (heure de Lord Howe)."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌴",
+      "titre": "Premiers Pas au Paradis et Détente",
+      "legende": "Bienvenue à Lord Howe Island ! Après l'installation à votre hébergement, prenez le temps de vous imprégner de l'atmosphère unique de l'île. Pas de précipitation, juste une douce découverte des environs immédiats. Laissez le rythme insulaire vous envahir et commencez à déconnecter du monde extérieur. Une journée légère pour s'acclimater.",
+      "lieu": "Lord Howe Island",
+      "activites": [
+        "🛏️ <strong>Installation et Découverte Locale</strong>: Arrivée à votre hébergement, installation et première exploration à pied ou à vélo des environs immédiats de votre lieu de séjour. Familiarisez-vous avec les chemins et les paysages.",
+        "🚶‍♀️ <strong>Balade à Ned's Beach</strong>: Une promenade relaxante sur Ned's Beach pour admirer le lagon et, si l'envie vous prend, nourrir les poissons tropicaux à la main, une expérience emblématique de l'île."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚲",
+          "titre": "Transport sur l'île",
+          "texte": "Le vélo est le principal moyen de transport sur Lord Howe. La plupart des hébergements en proposent à la location ou les incluent."
+        },
+        {
+          "symbole": "📶",
+          "titre": "Connectivité",
+          "texte": "La couverture mobile est très limitée et le Wi-Fi peut être lent. Profitez-en pour une vraie déconnexion numérique."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🐠",
+      "titre": "Exploration du Lagon et Vie Marine",
+      "legende": "Plongez au cœur de la biodiversité marine exceptionnelle de Lord Howe. Le lagon protégé est un aquarium naturel, idéal pour le snorkeling et l'observation des coraux et poissons tropicaux. Laissez-vous émerveiller par la clarté de l'eau et la richesse de la vie sous-marine. Une journée dédiée aux merveilles aquatiques.",
+      "lieu": "Lord Howe Island",
+      "activites": [
+        " snorkelling <strong>Snorkeling dans le Lagon</strong>: Explorez les eaux cristallines du lagon, un site classé au patrimoine mondial, pour y découvrir une incroyable variété de coraux et de poissons tropicaux colorés.",
+        "🚣‍♀️ <strong>Excursion en Bateau à Fond de Verre</strong>: Une manière relaxante d'admirer les jardins de coraux et la faune marine sans se mouiller, parfait pour une perspective différente sur le lagon."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Protection Solaire",
+          "texte": "Le soleil est intense. Utilisez une crème solaire respectueuse des coraux et portez un chapeau et des lunettes de soleil."
+        },
+        {
+          "symbole": "🐢",
+          "titre": "Faune Marine",
+          "texte": "Gardez l'œil ouvert, vous pourriez apercevoir des tortues de mer, des raies et même des requins inoffensifs dans le lagon."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛰️",
+      "titre": "Randonnée Panoramique et Vues Époustouflantes",
+      "legende": "Aujourd'hui, l'île se révèle sous un autre angle, celui des hauteurs. Une randonnée vers Malabar Hill offre des panoramas à couper le souffle sur l'ensemble de l'île, le lagon et Ball's Pyramid. C'est une occasion de se dépenser tout en s'imprégnant de la beauté sauvage et préservée de Lord Howe. Préparez votre appareil photo !",
+      "lieu": "Lord Howe Island",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée à Malabar Hill</strong>: Une marche modérée qui vous mènera à un point de vue spectaculaire sur l'extrémité nord de l'île, le lagon et l'impressionnante Ball's Pyramid au loin.",
+        "🐦 <strong>Observation des Oiseaux Marins</strong>: Malabar Hill est un excellent spot pour observer les oiseaux marins, notamment les puffins et les fous masqués, qui nichent sur les falaises."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Équipement",
+          "texte": "Portez de bonnes chaussures de marche, apportez de l'eau en quantité suffisante et un encas pour la randonnée."
+        },
+        {
+          "symbole": "🗺️",
+          "titre": "Sentiers",
+          "texte": "Les sentiers sont bien balisés, mais il est toujours bon d'avoir une carte de l'île disponible à l'office de tourisme."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🛶",
+      "titre": "Activités Nautiques et Plage Secrète",
+      "legende": "Explorez les recoins cachés de l'île en kayak ou en paddle, vous offrant une perspective unique sur le littoral. Découvrez des plages isolées et profitez d'un moment de quiétude loin de tout. Cette journée est placée sous le signe de l'aventure douce et de la découverte personnelle des trésors côtiers de Lord Howe. Une immersion totale dans la nature.",
+      "lieu": "Lord Howe Island",
+      "activites": [
+        "🛶 <strong>Kayak ou Paddle dans le Lagon</strong>: Louez un kayak ou un paddle et pagayez tranquillement dans le lagon, explorant les criques et les plages secrètes accessibles uniquement par l'eau.",
+        "🏖️ <strong>Détente à Blinky Beach</strong>: Profitez de l'après-midi pour vous détendre sur Blinky Beach, connue pour ses vagues plus agitées, idéales pour le bodyboard si les conditions le permettent."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Conditions",
+          "texte": "Vérifiez les conditions météorologiques et les marées avant de vous aventurer en kayak ou paddle."
+        },
+        {
+          "symbole": "♻️",
+          "titre": "Respect de l'Environnement",
+          "texte": "Lord Howe est un écosystème fragile. Ne laissez aucune trace de votre passage et respectez la faune et la flore."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛥️",
+      "titre": "Excursion à Ball's Pyramid et Pêche",
+      "legende": "Une journée mémorable vous attend avec une excursion en bateau vers l'emblématique Ball's Pyramid, le plus grand stack volcanique au monde. Admirez cette formation rocheuse spectaculaire et, pour les amateurs, tentez votre chance à la pêche en haute mer. C'est une expérience unique qui vous rapproche de la puissance brute de la nature. Des vues inoubliables.",
+      "lieu": "Lord Howe Island (autour)",
+      "activites": [
+        "🛥️ <strong>Croisière autour de Ball's Pyramid</strong>: Participez à une excursion en bateau pour admirer de près l'impressionnante Ball's Pyramid, un site géologique unique au monde. C'est une merveille naturelle à ne pas manquer.",
+        "🎣 <strong>Pêche en Haute Mer (optionnel)</strong>: Pour les passionnés, certains tours proposent des sessions de pêche sportive autour de l'île, avec la possibilité de capturer des espèces locales."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🤢",
+          "titre": "Mal de Mer",
+          "texte": "La mer peut être agitée autour de Ball's Pyramid. Si vous êtes sujet au mal de mer, prévoyez des médicaments."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "N'oubliez pas votre appareil photo, les opportunités de clichés spectaculaires sont nombreuses."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🚶‍♂️",
+      "titre": "Découverte des Forêts Endémiques et Points de Vue",
+      "legende": "Aujourd'hui, explorez l'intérieur de l'île et ses forêts luxuriantes, abritant une flore endémique unique. Une randonnée vers Transit Hill offre un autre panorama splendide sur l'île. C'est une journée pour se connecter avec la nature terrestre de Lord Howe, loin des plages, et apprécier sa biodiversité exceptionnelle. Une immersion dans la verdure.",
+      "lieu": "Lord Howe Island",
+      "activites": [
+        "🌳 <strong>Randonnée à Transit Hill</strong>: Une marche plus courte mais gratifiante qui offre des vues panoramiques sur le sud de l'île, le lagon et les falaises verdoyantes.",
+        "🌿 <strong>Exploration des Forêts Endémiques</strong>: Promenez-vous sur les sentiers moins fréquentés pour découvrir la flore unique de l'île, dont de nombreuses espèces ne se trouvent nulle part ailleurs."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🦟",
+          "titre": "Insectes",
+          "texte": "Dans les zones forestières, prévoyez un répulsif anti-moustiques, surtout en fin de journée."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Eau Potable",
+          "texte": "L'eau du robinet est potable sur l'île. Remplissez vos gourdes avant de partir en randonnée."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🤿",
+      "titre": "Plongée Sous-Marine ou Randonnée Guidée",
+      "legende": "Pour les plongeurs certifiés, explorez les sites de plongée de renommée mondiale de Lord Howe, abritant des espèces uniques. Pour les autres, une randonnée guidée vers le sommet du Mont Gower (si les conditions le permettent) offre une aventure inoubliable et des vues inégalées. C'est une journée pour repousser ses limites et découvrir des trésors cachés. Une expérience forte en émotions.",
+      "lieu": "Lord Howe Island",
+      "activites": [
+        "🤿 <strong>Plongée Sous-Marine (certifiés)</strong>: Explorez les récifs coralliens et les grottes sous-marines, réputés pour leur biodiversité unique et leurs eaux claires. C'est un paradis pour les plongeurs.",
+        "⛰️ <strong>Randonnée Guidée au Mont Gower (optionnel)</strong>: Embarquez pour une randonnée exigeante mais incroyablement gratifiante vers le sommet du Mont Gower, offrant des vues panoramiques spectaculaires sur toute l'île."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Mont Gower",
+          "texte": "La randonnée du Mont Gower est difficile et nécessite un guide agréé. Réservez à l'avance et soyez en bonne condition physique."
+        },
+        {
+          "symbole": "🐠",
+          "titre": "Plongée",
+          "texte": "Les sites de plongée sont nombreux et variés, adaptés à différents niveaux. Renseignez-vous auprès des centres locaux."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée Libre et Activités Personnelles",
+      "legende": "Profitez de cette journée pour faire ce qui vous plaît le plus. Que ce soit une nouvelle session de snorkeling, une lecture sur la plage, une partie de golf avec vue sur l'océan, ou simplement flâner à vélo. C'est votre moment pour savourer les derniers instants de tranquillité et de beauté de Lord Howe à votre rythme. Une pause bien méritée.",
+      "lieu": "Lord Howe Island",
+      "activites": [
+        "🧘‍♀️ <strong>Détente et Activités au Choix</strong>: Choisissez parmi les nombreuses options: re-visiter une plage préférée, faire du golf, du tennis, ou simplement vous reposer et lire un livre avec vue sur l'océan.",
+        "🌅 <strong>Coucher de Soleil sur l'Océan</strong>: Terminez la journée en admirant un magnifique coucher de soleil depuis l'une des plages orientées ouest, un spectacle quotidien inoubliable."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les boutiques de l'île proposent des produits locaux et artisanaux, parfaits pour ramener un souvenir unique."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Restaurants",
+          "texte": "Réservez à l'avance pour les dîners, surtout si vous souhaitez essayer un restaurant particulier, car les places sont limitées."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": " farewell",
+      "titre": "Derniers Moments et Départ de Lord Howe",
+      "legende": "Profitez de vos dernières heures sur cette île magique. Une dernière balade, un dernier regard sur le lagon turquoise, avant de vous diriger vers l'aéroport. C'est le moment de dire au revoir à ce havre de paix et de commencer le long voyage de retour, la tête remplie de souvenirs inoubliables. Un départ en douceur.",
+      "lieu": "Lord Howe Island / Sydney",
+      "activites": [
+        "🚶‍♀️ <strong>Dernière Balade Matinale</strong>: Profitez d'une dernière promenade le long de la plage ou d'un sentier facile pour absorber une dernière fois la beauté de l'île.",
+        "✈️ <strong>Vol Lord Howe Island - Sydney</strong>: Départ de l'aéroport de Lord Howe pour le vol de retour vers Sydney, marquant la fin de cette parenthèse enchantée."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de Départ",
+          "texte": "Vérifiez bien l'heure de votre vol retour et prévoyez d'arriver à l'aéroport de Lord Howe avec une marge suffisante."
+        },
+        {
+          "symbole": "💖",
+          "titre": "Impact Écologique",
+          "texte": "Lord Howe est un modèle de conservation. Continuez à soutenir ces efforts en étant un voyageur responsable."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🛫",
+      "titre": "Transit à Sydney et Vol Retour",
+      "legende": "Après votre arrivée à Sydney, ce jour est entièrement consacré au transit international. Vous aurez le temps de vous préparer pour le long vol de retour vers l'Europe. C'est une journée de voyage, mais aussi de transition, où les souvenirs de Lord Howe commencent à s'ancrer. Préparez-vous à une longue période en vol.",
+      "lieu": "Sydney / En vol",
+      "activites": [
+        "✈️ <strong>Vol Sydney - Paris</strong>: Embarquement pour le vol international de retour vers Paris, souvent avec une escale. Profitez des services à bord pour vous reposer."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Derniers Achats",
+          "texte": "Si le temps le permet, profitez de l'aéroport de Sydney pour quelques derniers achats de souvenirs australiens."
+        },
+        {
+          "symbole": "💤",
+          "titre": "Repos",
+          "texte": "Essayez de dormir autant que possible pendant le vol pour minimiser le jet lag à l'arrivée."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "✈️",
+      "titre": "En Vol vers Paris",
+      "legende": "Ce jour est une continuation de votre voyage de retour vers Paris. Vous traverserez à nouveau les fuseaux horaires, vous rapprochant de votre point de départ. Profitez de ce temps pour revoir les photos de votre voyage et revivre les moments magiques passés sur l'île de Lord Howe. Une journée de transition et de souvenirs.",
+      "lieu": "En vol",
+      "activites": [
+        "✈️ <strong>Vol long-courrier</strong>: Continuez votre voyage aérien, profitant des services à bord pour vous détendre ou travailler. Préparez-vous mentalement au retour à la vie quotidienne."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🎧",
+          "titre": "Divertissement",
+          "texte": "Les compagnies aériennes proposent une large gamme de films, musiques et jeux pour rendre le vol plus agréable."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🛬",
+      "titre": "Arrivée à Paris",
+      "legende": "Après un long et mémorable voyage, vous atterrissez enfin à Paris. C'est la fin de votre incroyable aventure à Lord Howe Island. Reposez-vous et laissez les images de ce paradis lointain vous accompagner. Le retour à la réalité se fait en douceur, avec la promesse de nouveaux voyages à venir. Une arrivée pleine de souvenirs.",
+      "lieu": "Paris",
+      "activites": [
+        "🛬 <strong>Arrivée à Paris</strong>: Atterrissage à l'aéroport de Paris, passage des formalités douanières et récupération des bagages. Fin de votre voyage."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "🏡",
+          "titre": "Retour à la Maison",
+          "texte": "Prévoyez un temps de récupération après ce long voyage. Le décalage horaire peut prendre quelques jours à s'estomper."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "3200€/pers (Vol international Paris-Sydney A/R + Vol domestique Sydney-Lord Howe A/R)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "150€/pers (Transferts aéroport, location de vélos sur l'île)",
+      "symbole": "🚲"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "1500€/pers (Environ 100-150€/jour pour 10 jours sur l'île, incluant quelques restaurants)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "2800€/pers (10 nuits sur l'île, base chambre double, hébergement de qualité moyenne-supérieure)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "550€/pers (Excursions en bateau, snorkeling, location kayak, droits d'accès)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mars à mai et de septembre à novembre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Un visa (ETA ou eVisitor) est obligatoire pour entrer en Australie. Faites la demande en ligne bien avant votre départ.",
+      "symbole": "🛂"
+    },
+    {
+      "titre": "Le nombre de visiteurs sur Lord Howe est limité à 400 à la fois. Réservez votre hébergement et vos vols très en avance.",
+      "symbole": "🔒"
+    },
+    {
+      "titre": "La monnaie est le Dollar Australien (AUD). Les cartes de crédit sont acceptées, mais prévoyez un peu de liquide pour les petits achats.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "La couverture mobile est très limitée sur l'île. Profitez-en pour une déconnexion totale et utilisez le Wi-Fi de votre hébergement.",
+      "symbole": "📵"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles et hébergements",
+      "titre": "Lord Howe Island Tourism",
+      "url": "https://www.lordhoweisland.info/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Vols vers Lord Howe Island",
+      "titre": "QantasLink",
+      "url": "https://www.qantas.com/au/en/travel-info/lord-howe-island.html",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo locales",
+      "titre": "Bureau of Meteorology (BOM) Australia",
+      "url": "http://www.bom.gov.au/nsw/forecasts/lordhoweisland.shtml",
+      "symbole": "🌤️"
+    }
+  ]
+}
